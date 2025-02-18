@@ -6,7 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis
 #mysql:5.7
-prom/prometheus:v2.54.1
-grafana/grafana:11.2.3
-oliver006/redis_exporter:v1.64.1
-prom/mysqld-exporter:v0.15.1
+#prom/prometheus:v2.54.1
+#grafana/grafana:11.2.3
+#oliver006/redis_exporter:v1.64.1
+#prom/mysqld-exporter:v0.15.1
+ghcr.io/open-webui/open-webui:main
